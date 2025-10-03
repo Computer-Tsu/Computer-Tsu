@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## StackExchange
 
-[![Stack Exchange flair](https://stackexchange.com/users/flair/7016985.png)](https://stackoverflow.com/users/7016985/protocol)
+[![Stack Exchange flair](https://stackexchange.com/users/flair/7016985.png)](https://stackexchange.com/users/7016985/protocol)
