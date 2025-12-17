@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m an infrastructure-focused technologist with interests in Windows environments, networking, automation, and security-conscious system design.  <br>
+I use GitHub for personal projects, documentation, experiments, and tooling that supports long-term maintainability and clarity.
+
 <!--
 **Computer-Tsu/Computer-Tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
