@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Computer-Tsu&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Computer-Tsu&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Computer-Tsu&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Computer-Tsu&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
     height="195px"
   />
 </p>
+
 
 
 -----
