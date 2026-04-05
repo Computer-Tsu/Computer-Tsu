@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **[ShackDesk-PortPane](https://github.com/Computer-Tsu/ShackDesk-PortPane)** — Windows-first utility for ham radio / digital mode users to make COM-port and device mapping easier to understand.
 
 ## GitHub Stats
 
